@@ -11,6 +11,6 @@
 
 ### Day 2: March 5, 2022 
 
-**Today's Progress**: Read up to section 3 of Starke and Cortiula 2021 "Bearing the Brazilian Cross" on a neat morpheme swap in Brazilian Portuguese verbal inflection. They said swap in nanosyntax.
+**Today's Progress**: Read up to section 3 of Starke and Cortiula 2021 "Bearing the Brazilian Cross" on a neat morpheme swap in Brazilian Portuguese verbal inflection. They analyze said swap in nanosyntax.
 
 **Link to reading notes**: [Starke, Cortiula 2021 reading notes](https://github.com/nbbaier/Dendron/blob/4fc94bd97b200673eda1a4bb92499db79a196617/vault/nanosyntax.reading.starke-cortiula-2021.md)
