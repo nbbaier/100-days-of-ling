@@ -20,3 +20,7 @@
 **Today's Progress**: Finish Starke and Cortiula 2021, started reading Bendjaballah and Haiden 2021 "On Berber Verbs of State". Started some reading notes on that paper too. Also did some first transcript of verbs out of Dallet into google sheets.
 
 **Link to reading notes**: [Bendjaballah, Haiden 2021 reading notes](https://github.com/nbbaier/Dendron/blob/968e7774168d1772fe5d2740da0c472f5da19f19/vault/reading.bendjaballah-haiden-2021.md)
+
+### Day 4: March 6, 2022
+
+**Today's Progress**: Did more data entry from Dallet's verb dictionary. It's such a cool resource but DAMN do I wish OCR worked on it so I could do this bit faster.
