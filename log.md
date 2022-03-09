@@ -24,3 +24,7 @@
 ### Day 4: March 7, 2022
 
 **Today's Progress**: Did more data entry from Dallet's verb dictionary. It's such a cool resource but DAMN do I wish OCR worked on it so I could do this bit faster.
+
+### Day 5: March 8, 2022
+
+**Today's Progress**: More Kabyle data entry from Dallet's verb dictionary. Pulled out a couple generalizations and wrote them down so I can think about them as I can go along as well.
