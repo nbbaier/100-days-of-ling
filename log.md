@@ -28,3 +28,9 @@
 ### Day 5: March 8, 2022
 
 **Today's Progress**: More Kabyle data entry from Dallet's verb dictionary. Pulled out a couple generalizations and wrote them down so I can think about them as I can go along as well.
+
+
+### Day 6: March 9, 2022
+
+**Today's Progress**: Decided to take a different tack with the Kabyle data and started going directly to the patterns of the morphology I'm looking at. Will let me get at higher generalizations faster. Also revived an old pandas script I had to looking at these patterns just to make sure it was working. 
+
