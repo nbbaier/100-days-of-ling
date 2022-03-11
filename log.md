@@ -33,7 +33,7 @@
 ### Day 6: March 9, 2022
 
 **Today's Progress**: Decided to take a different tack with the Kabyle data and started going directly to the patterns of the morphology I'm looking at. Will let me get at higher generalizations faster. Also revived an old pandas script I had to looking at these patterns just to make sure it was working. 
-### Day 6: March 9, 2022
 
-**Today's Progress**: Decided to take a different tack with the Kabyle data and started going directly to the patterns of the morphology I'm looking at. Will let me get at higher generalizations faster. Also revived an old pandas script I had to looking at these patterns just to make sure it was working. 
+### Day 7: March 10, 2022
 
+**Today's Progress**: Finished entering the first chapter of Dallet 1953 and played around with pandas to extract counts of different verb patterns.
