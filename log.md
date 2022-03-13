@@ -37,3 +37,13 @@
 ### Day 7: March 10, 2022
 
 **Today's Progress**: Finished entering the first chapter of Dallet 1953 and played around with pandas to extract counts of different verb patterns.
+
+
+### Day 8: March 11, 2022
+
+**Today's Progress**: Some more data entry and some string of conscious brainstorming about questions I have about the Kabyle patterns I'm finding. 
+
+
+### Day 9: March 12, 2022
+
+**Today's Progress**: Some more Kabyle data entry and some analysis with my nascet pandas' script. Need to do some brainstormning about my direction here.
