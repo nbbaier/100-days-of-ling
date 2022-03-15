@@ -47,3 +47,12 @@
 ### Day 9: March 12, 2022
 
 **Today's Progress**: Some more Kabyle data entry and some analysis with my nascet pandas' script. Need to do some brainstormning about my direction here.
+
+
+### Day 10: March 13, 2022
+
+**Today's Progress**: Some more Kabyle data entry, but not that much as I was kid of on a coding kick. Confirmed that I definitely need a concrete goal to keep going on this challege.
+
+### Skip day: March 14, 2022
+
+**Today's Progress**: Had a bunch of work that needed catching up on, so decided to take this Monday as a skip day and to get back on the ling/coding horse tomorrow! 
