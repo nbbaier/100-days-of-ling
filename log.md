@@ -53,6 +53,101 @@
 
 **Today's Progress**: Some more Kabyle data entry, but not that much as I was kid of on a coding kick. Confirmed that I definitely need a concrete goal to keep going on this challege.
 
-### Skip day: March 14, 2022
+### Skip day 1: March 14, 2022
 
 **Today's Progress**: Had a bunch of work that needed catching up on, so decided to take this Monday as a skip day and to get back on the ling/coding horse tomorrow! 
+
+### Skip day 2: March 15, 2022
+**Today's Progress**: Ended up accidentally taking another skip day today because I got on a coding roll and just kept going. 
+
+### Day 11: Match 16, 2022
+<!-- ### Day 11: 3/16/2022
+### Day 12: 3/17/2022
+### Day 13: 3/18/2022
+### Day 14: 3/19/2022
+### Day 15: 3/20/2022
+### Day 16: 3/21/2022
+### Day 17: 3/22/2022
+### Day 18: 3/23/2022
+### Day 19: 3/24/2022
+### Day 20: 3/25/2022
+### Day 21: 3/26/2022
+### Day 22: 3/27/2022
+### Day 23: 3/28/2022
+### Day 24: 3/29/2022
+### Day 25: 3/30/2022
+### Day 26: 3/31/2022
+### Day 27: 4/1/2022
+### Day 28: 4/2/2022
+### Day 29: 4/3/2022
+### Day 30: 4/4/2022
+### Day 31: 4/5/2022
+### Day 32: 4/6/2022
+### Day 33: 4/7/2022
+### Day 34: 4/8/2022
+### Day 35: 4/9/2022
+### Day 36: 4/10/2022
+### Day 37: 4/11/2022
+### Day 38: 4/12/2022
+### Day 39: 4/13/2022
+### Day 40: 4/14/2022
+### Day 41: 4/15/2022
+### Day 42: 4/16/2022
+### Day 43: 4/17/2022
+### Day 44: 4/18/2022
+### Day 45: 4/19/2022
+### Day 46: 4/20/2022
+### Day 47: 4/21/2022
+### Day 48: 4/22/2022
+### Day 49: 4/23/2022
+### Day 50: 4/24/2022
+### Day 51: 4/25/2022
+### Day 52: 4/26/2022
+### Day 53: 4/27/2022
+### Day 54: 4/28/2022
+### Day 55: 4/29/2022
+### Day 56: 4/30/2022
+### Day 57: 5/1/2022
+### Day 58: 5/2/2022
+### Day 59: 5/3/2022
+### Day 60: 5/4/2022
+### Day 61: 5/5/2022
+### Day 62: 5/6/2022
+### Day 63: 5/7/2022
+### Day 64: 5/8/2022
+### Day 65: 5/9/2022
+### Day 66: 5/10/2022
+### Day 67: 5/11/2022
+### Day 68: 5/12/2022
+### Day 69: 5/13/2022
+### Day 70: 5/14/2022
+### Day 71: 5/15/2022
+### Day 72: 5/16/2022
+### Day 73: 5/17/2022
+### Day 74: 5/18/2022
+### Day 75: 5/19/2022
+### Day 76: 5/20/2022
+### Day 77: 5/21/2022
+### Day 78: 5/22/2022
+### Day 79: 5/23/2022
+### Day 80: 5/24/2022
+### Day 81: 5/25/2022
+### Day 82: 5/26/2022
+### Day 83: 5/27/2022
+### Day 84: 5/28/2022
+### Day 85: 5/29/2022
+### Day 86: 5/30/2022
+### Day 87: 5/31/2022
+### Day 88: 6/1/2022
+### Day 89: 6/2/2022
+### Day 90: 6/3/2022
+### Day 91: 6/4/2022
+### Day 92: 6/5/2022
+### Day 93: 6/6/2022
+### Day 94: 6/7/2022
+### Day 95: 6/8/2022
+### Day 96: 6/9/2022
+### Day 97: 6/10/2022
+### Day 98: 6/11/2022
+### Day 99: 6/12/2022
+### Day 100: 6/13/2022 -->
