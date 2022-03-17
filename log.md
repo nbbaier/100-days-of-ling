@@ -61,6 +61,9 @@
 **Today's Progress**: Ended up accidentally taking another skip day today because I got on a coding roll and just kept going. 
 
 ### Day 11: Match 16, 2022
+
+**Today's Progress**: Went to Nanosyntax seminar in the morning and did a little brainstorming about Kabyle verb stem syncrestim. Also worked up a little reading list for things I want to read. 
+
 <!-- ### Day 11: 3/16/2022
 ### Day 12: 3/17/2022
 ### Day 13: 3/18/2022
