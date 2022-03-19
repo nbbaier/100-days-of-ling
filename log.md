@@ -64,11 +64,11 @@
 
 **Today's Progress**: Went to Nanosyntax seminar in the morning and did a little brainstorming about Kabyle verb stem syncrestim. Also worked up a little reading list for things I want to read. 
 
-### Day 12: 3/17/2022
+### Day 12: March 17, 2022
 
-**Today's Progress**:  I don't think I got a full hour in, but I did do some reading about Coptic in Lambdin's Introductio to Sahidic Coptic. Fun language.
+**Today's Progress**: I don't think I got a full hour in, but I did do some reading about Coptic in Lambdin's Introductio to Sahidic Coptic. Fun language.
 
-### Day 13: 3/18/2022
+### Day 13: March 18, 2022
 
 **Today's Progress**:  Nanosyntax group in the morning plus some refresher reading on the Kabyle aspectual system. Then some data entry in the evening.
 
