@@ -73,8 +73,12 @@
 **Today's Progress**:  Nanosyntax group in the morning plus some refresher reading on the Kabyle aspectual system. Then some data entry in the evening.
 
 
+### Day 14: March 19, 2022
+
+
+**Today's Progress**: Read two chapters of Baunaz et al 2018 *Exploring Nanosuntax* - _Complex Left Branches, Spellout, and Prefixes_ by Starke and _Spanning versus Constituent Lexicalization_ by Taraldsen.
+
 <!-- ### Day 11: 3/16/2022
-### Day 14: 3/19/2022
 ### Day 15: 3/20/2022
 ### Day 16: 3/21/2022
 ### Day 17: 3/22/2022
