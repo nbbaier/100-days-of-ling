@@ -75,8 +75,16 @@
 
 ### Day 14: March 19, 2022
 
-
 **Today's Progress**: Read two chapters of Baunaz et al 2018 *Exploring Nanosyntax* - _Complex Left Branches, Spellout, and Prefixes_ by Starke and _Spanning versus Constituent Lexicalization_ by Taraldsen.
+
+### Day 15: March 20, 2022
+
+**Today's Progress**: Did data entry and playing around with the pandas script 
+
+### Day 16: March 21, 2022
+
+**Today's Progress**: Didn't quite reach an hour but did data entry
+
 
 <!-- ### Day 11: 3/16/2022
 ### Day 15: 3/20/2022
